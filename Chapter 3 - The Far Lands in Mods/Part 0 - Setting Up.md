@@ -34,3 +34,11 @@ For The BetweenLands, you must grab a snapshot version, because the main version
 Now, open up Recaf and navigate to the method. Open the try-catches, and add an exception named "java/lang/NullPointerException". The end and handler labels should be the second to last and last labels, respectively. Save, and you should be done.
 
 ![TheBetweenlandsMod1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/TheBetweenlandsMod1.png)
+
+For the GalacticCraft core mod, you need to change an athrow to a pop at micdoodle8\mods\galacticraft\api\prefab\world\gen\BiomeDecoratorSpace.java decorate().
+
+![GalCraftMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/GalCraftMod.png)
+
+For ExtraPlanets, you need to replace an athrow with a pop, at com\mjr\extraplanets\planets\Jupiter\worldgen\BiomeDecoratorJupiterOther.java func_180292_a().
+
+![ExtraPlanetsMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/ExtraPlanetsMod.png)
