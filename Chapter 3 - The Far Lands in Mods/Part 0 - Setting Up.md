@@ -6,7 +6,10 @@ We're about to see what the Far Lands looks like, modded. Here are the mods we a
 * Erebus-1.0.31
 * TheBetweenlands-3.5.5-2573-SNAPSHOT-universal (Warning: You must use a snapshot version)
 * AbyssalCraft-1.12.2-1.9.15
-+Galacticcraft twilight forest
+* GalacticraftCore-1.12.2-4.0.2.238, Galacticraft-Planets-1.12.2-4.0.2.238, MicdoodleCore-1.12.2-4.0.2.238
+* twilightforest-1.12.2-3.10.1013-universal
+
+Note: The GalacticCraft addons present are ExtraPlanets-1.12.2-0.5.8 and More-Planets-1.12.2-2.0.22-GC238.
 
 These mods were not designed to work in the far lands, and some of them have to be modded. We will be using JByteMod and Recaf to add in try-catch blocks or delete instructions.
 
