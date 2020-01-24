@@ -1,0 +1,31 @@
+We're about to see what the Far Lands looks like, modded. Here are the mods we are using:
+
+* aether_legacy-1.12.2-v1.4.4
+* Atum-1.12.2-2.0.16
+* Baubles-1.12-1.5.24
+* Erebus-1.0.31
+* TheBetweenlands-3.5.5-2573-SNAPSHOT-universal (Warning: You must use a snapshot version)
+* AbyssalCraft-1.12.2-1.9.15
++Galacticcraft twilight forest
+
+These mods were not designed to work in the far lands, and some of them have to be modded. We will be using JByteMod and Recaf to add in try-catch blocks or delete instructions.
+
+For AbyssalCraft, we'll need to add a try-catch loop at com/shinoow/abyssalcraft/common/world/gen/WorldGenDreadlandsStalagmite.java in generate(). Go into JByteMod and navigate to the method, and then add 3 instructions at the end. You can duplicate the FrameNode before and then start editing the contents inside. Just make sure your code looks like this:
+
+![AbyssalCraftMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/AbyssalCraftMod.png)
+
+Next, add a try-catch block. The end and handler labels should match the one you see in the image before.
+
+![AbyssalCraftMod1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/AbyssalCraftMod1.png)
+
+After you've saved the modded JAR, delete SHINOOW.RSA and MANIFEST.MF from the META-INF. This will allow the mod to run while modified.
+
+For Erebus, navigate to erebus/world/biomes/decorators/BiomeDecoratorBaseErebus.java and change an athrow to a pop in decorate().
+
+![ErebusMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/ErebusMod.png)
+
+For The BetweenLands, you must grab a snapshot version, because the main version has a hash check. Navigate to thebetweenlands/common/world/gen/feature/structure/WorldGenCragrockTower.java, in the method tower(). Add an exception handler at the bottom (3 instructions):
+
+![TheBetweenlandsMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/TheBetweenlandsMod.png)
+
+Now, open up Recaf and navigate to the method. Open the try-catches, and add an exception named "java/lang/NullPointerException". The end and handler labels should be the second to last and last labels, respectively. Save, and you should be done.
