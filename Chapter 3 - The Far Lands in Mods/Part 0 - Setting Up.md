@@ -2,7 +2,6 @@ We're about to see what the Far Lands looks like, modded. Here are the mods we a
 
 * aether_legacy-1.12.2-v1.4.4
 * Atum-1.12.2-2.0.16
-* Baubles-1.12-1.5.24
 * Erebus-1.0.31
 * TheBetweenlands-3.5.5-2573-SNAPSHOT-universal (Warning: You must use a snapshot version)
 * AbyssalCraft-1.12.2-1.9.15
