@@ -1,8 +1,8 @@
-Before we start, lets remove the jitter from the far lands. Follow the instructions in this video: https://www.youtube.com/watch?v=KGPwPC7u03w
+Before we start, let's remove the jitter from the far lands. Follow the instructions in this video: https://www.youtube.com/watch?v=KGPwPC7u03w
 
 Basically, you go to RenderList.java and delete all the float casts.
 
-Now lets explore the far lands. Teleport to the far lands and we'll check out what's there.
+Now let's explore the far lands. Teleport to the far lands and we'll check out what's there.
 
 ![FarLands](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch1/FarLands.png)
 

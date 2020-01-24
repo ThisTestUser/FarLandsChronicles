@@ -8,11 +8,11 @@ When the sky far lands merge with the edge far lands, the vertex far lands start
 
 ![VertexFarLands1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch1/VertexFarLands1.png)
 
-The sky farther lands also exist, but it's hard to tell here, but if we force the selector noise to overflow first, we'll get floating islands:
+The sky farther lands also exist, but it's hard to tell here. If we force the selector noise to overflow first, we'll get floating islands:
 
 ![Floating](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch1/Floating.png)
 
-Now, lets look at the sky dimension. The sky dimension is an unfinished dimension that was supposed to be the opposite of the Nether. It was removed eventually, but you can enable it at `getProviderForDimension` in WorldProvider.java by replacing WorldProviderSurface with WorldProviderSky.
+Now, let's look at the sky dimension. The sky dimension is an unfinished dimension that was supposed to be the opposite of the Nether. It was removed eventually, but you can enable it at `getProviderForDimension` in WorldProvider.java by replacing WorldProviderSurface with WorldProviderSky.
 
 Here's how the sky dimension looks:
 

@@ -23,4 +23,3 @@ Now navigate to beforeUpdate at PlayerHelper.java. Search for `vector.size()`, a
 ![PlayerHelper](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch1/PlayerHelper.png)
 
 This should be it for the fixes.
-
