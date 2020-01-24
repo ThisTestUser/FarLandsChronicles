@@ -29,3 +29,5 @@ For The BetweenLands, you must grab a snapshot version, because the main version
 ![TheBetweenlandsMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/TheBetweenlandsMod.png)
 
 Now, open up Recaf and navigate to the method. Open the try-catches, and add an exception named "java/lang/NullPointerException". The end and handler labels should be the second to last and last labels, respectively. Save, and you should be done.
+
+![TheBetweenlandsMod1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/TheBetweenlandsMod1.png)
