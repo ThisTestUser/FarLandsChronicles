@@ -26,7 +26,7 @@ This is just one corner. There are so many variations here it is just impossible
 
 ![SVertex4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVertex4.png)
 
-Below is one example of the farther lands.
+Below are examples of the farther lands.
 
 ![SFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFarther.png)
 
