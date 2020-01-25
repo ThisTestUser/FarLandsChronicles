@@ -1,4 +1,4 @@
-First, we'll be using my far lands mod. This mod enables the far lands in all dimensions, and also any world border restrictions. Download it here: https://github.com/ThisTestUser/FarLandsMod/releases
+First, we'll be using my far lands mod. This mod enables the far lands in all dimensions, and also removes any world border restrictions. Download it here: https://github.com/ThisTestUser/FarLandsMod/releases
 
 We're about to see what the far lands looks like, modded. Here are the mods we are using:
 

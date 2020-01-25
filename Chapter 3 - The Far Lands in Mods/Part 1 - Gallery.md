@@ -68,4 +68,12 @@ Unlike other mods, Twilight Forest's far lands stop at 128 blocks. Many structur
 
 ![Twilight2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/Twilight2.png)
 
-GalaticCraft has a lot of dimensions, so we're not going to explore them all. Some dimensions don't generate far lands, due to them having different terrain generators.
+GalaticCraft has a lot of dimensions, so we're not going to explore them all. Some dimensions don't generate far lands, due to them having different terrain generators. Warning: Some of these dimensions may cause crashes when visiting the far lands.
+
+![GalCraft](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/GalCraft.png)
+
+![GalCraft1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/GalCraft1.png)
+
+![GalCraft2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/GalCraft2.png)
+
+![GalCraft3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/GalCraft3.png)
