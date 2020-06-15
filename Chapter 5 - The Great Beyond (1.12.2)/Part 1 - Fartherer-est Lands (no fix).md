@@ -18,6 +18,6 @@ The terrain then "drops" back at a further distance (note: different seed here)
 
 ![FarLandsDropBackForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsDropBackForge.png)
 
-However, doing the exact same thing in vanilla (with the far lands re-enabled of course) results in the terrain being completely flat:
+However, doing the exact same thing in vanilla (with the far lands re-enabled of course) results in the terrain being completely flat. This is the same seed as the image with the jump, 2666171903307131136):
 
 ![FarLandsFlat](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsFlat.png)
