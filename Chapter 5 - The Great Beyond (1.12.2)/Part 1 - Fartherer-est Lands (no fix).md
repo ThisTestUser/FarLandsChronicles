@@ -1,4 +1,4 @@
-With the far lands re-enabled, the fartherer/est lands do not seem to exist at all (at least in vanilla).
+With the far lands re-enabled, the fartherer/est lands do not seem to exist at all (vanilla) or seems to exist as a "jump" in the terrain (Forge).
 
 For example, here is X/Z = +4312430307758379832:
 
@@ -10,4 +10,14 @@ Here is the terrain at X=10004065811,Z=1004065811 (the X coordinate is at 10 bil
 
 ![FarLandsW2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsW2.png)
 
-It seems that getting these lands to generate while Cubic Chunks is installed (with far lands enabled) DOES result in a "jump" in terrain around this point (by increasing the coordinate scale).
+It seems that when trying to generate the fartherer lands (by modifying the coordinate scale) in Forge (with my 1.12.2 far lands mod), a "jump" in the terrain occurs.
+
+![FarLandsForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsForge.png)
+
+The terrain then "drops" back at a further distance (note: different seed here)
+
+![FarLandsDropBackForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsDropBackForge.png)
+
+However, doing the exact same thing in vanilla (with the far lands re-enabled of course) results in the terrain being completely flat:
+
+![FarLandsFlat](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsFlat.png)
