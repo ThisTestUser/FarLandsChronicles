@@ -8,7 +8,7 @@ The same may be done for ChunkGeneratorHell and ChunkGeneratorEnd in order to of
 
 ![MoveFL2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch2/MoveFL2.png)
 
-For the overworld, you should also mod populate(), in order allow the terrain features to generate properly. Note that some features (like ores) use both chunk coordinates and block coordinates, so you will see a subtle difference when comparing against the original terrain.
+For the overworld, you should also mod populate(), in order to allow the terrain features to generate properly. Note that some features (like ores) use both chunk coordinates and block coordinates, so you will see a subtle difference when comparing against the original terrain.
 
 ![MoveFL3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch2/MoveFL3.png)
 
