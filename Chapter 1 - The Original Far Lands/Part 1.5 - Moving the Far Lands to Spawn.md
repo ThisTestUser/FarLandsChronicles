@@ -1,4 +1,4 @@
-There's a bug in beta 1.7.3 where at every power of 2 past 2^25, some chunks from spawn will be ported to the far lands. This is the only instance where trees can generate past 3.2E7 (without removing the fake chunks).
+There's a bug in beta 1.7.3 where at every power of 2 past 2^19, some chunks from spawn will be ported all the way out to said dishance. Notably, this still works for 2^24, which is in the far lands, and 2^25, which is beyond the 32 million fake chunk boundary. This is the only instance where trees can generate past 3.2E7 (without patching the fake chunks).
 
 For example, when the x-axis and the z-axis are both equal to 2^25, the far lands give away to the terrain seen at spawn.
 
