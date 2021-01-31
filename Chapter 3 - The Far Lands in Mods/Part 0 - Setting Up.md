@@ -10,7 +10,7 @@ We're about to see what the far lands looks like, modded. Here are the mods we a
 * GalacticraftCore-1.12.2-4.0.2.238, Galacticraft-Planets-1.12.2-4.0.2.238, MicdoodleCore-1.12.2-4.0.2.238
 * twilightforest-1.12.2-3.10.1013-universal
 
-Note: The GalacticCraft addons present are ExtraPlanets-1.12.2-0.5.8 and More-Planets-1.12.2-2.0.22-GC238.
+Note: The Galacticraft addons present are ExtraPlanets-1.12.2-0.5.8 and More-Planets-1.12.2-2.0.22-GC238.
 
 These mods were not designed to work in the far lands, and some of them have to be modded. We will be using JByteMod and Recaf to add in try-catch blocks or delete instructions.
 
@@ -36,7 +36,7 @@ Now, open up Recaf and navigate to the method. Open the try-catches, and add an 
 
 ![TheBetweenlandsMod1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/TheBetweenlandsMod1.png)
 
-For the GalacticCraft core mod, you need to change an athrow to a pop at micdoodle8\mods\galacticraft\api\prefab\world\gen\BiomeDecoratorSpace.class decorate().
+For the Galacticraft core mod, you need to change an athrow to a pop at micdoodle8\mods\galacticraft\api\prefab\world\gen\BiomeDecoratorSpace.class decorate().
 
 ![GalCraftMod](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch3/GalCraftMod.png)
 
