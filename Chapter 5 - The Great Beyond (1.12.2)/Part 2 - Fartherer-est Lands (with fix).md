@@ -2,7 +2,31 @@ A long time ago, it was assumed that the far lands were completely fixed in beta
 
 (Important Note: You must disable the overflow by adding back the `% 16777216L`. If this is not done, there will be no new sets of far lands.)
 
-Here are the far lands in vanilla. X/Z = +53905379859335561:
+The far lands can be brought back in vanilla by simply adjusting the coordinate scale. A new type of far lands appears, even with a relatively low coordinate scale. The appearance of this kind of far lands depends on the coordinate scale, so it is presumed to not happen when offsetting.
+
+(Caution: There may be a StackOverflowError as a result of liquids flowing. Go to BlockStaticLiquid, at updateLiquid() and insert a return statement if the current stacktrace is over 200 entries long.)
+
+The below image is with a coordinate scale of 532952700. The two images below used a seed of 874167528226366678.
+
+![CoordScaleFL1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/CoordScaleFL1.png)
+
+This image used a coordinate scale of 533952700.
+
+![CoordScaleFL2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/CoordScaleFL2.png)
+
+A coordinate scale of 538952700 would result in the normal terrain being only one chunk wide, and even higher coordinate scales would make the far lands appear everywhere. It is important to note that the far lands that will appear in offsetting later also show up.
+
+![CoordScaleFar1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/CoordScaleFar1.png)
+
+![CoordScaleFar2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/CoordScaleFar2.png)
+
+The above images were taken with a coordinate scale of 2939527156989.952. At the same coordinate scale, the farther lands generate at the expected position:
+
+![CoordScaleFarther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/CoordScaleFarther1.png)
+
+![CoordScaleFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/CoordScaleFarther2.png)
+
+Now lets see what the far lands look like with offsetting. Here are the far lands in vanilla. X/Z = +53905379859335561:
 
 ![FarLandsV1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsV1.png)
 
@@ -27,3 +51,5 @@ Now, we approach the farthest lands, which in vanilla generates at X/Z = +431243
 Chunk errors appear on both sides of the corner far lands. The edge far lands don't seem to be affected.
 
 As we go even further, the corner far lands eventually becomes flat, while the edge far lands becomes long and continuous.
+
+The far lands you see in the above images all generate as a result of the modulo fix breaking down. Starting from 1.14, both variants of the far lands (the one that appears when raising the coordinate scale and the one that appears at high coordinates) do not appear at all.
