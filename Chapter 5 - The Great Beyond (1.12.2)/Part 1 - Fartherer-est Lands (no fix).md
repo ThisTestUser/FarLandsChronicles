@@ -18,7 +18,7 @@ The terrain then "drops" back at a further distance (note: different seed here).
 
 ![FarLandsDropBackForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsDropBackForge.png)
 
-At the start of the farther lands, the terrain of the seed 2666171903307131136 drops down instead of up. Whether or not the terrain is drops or rises depends on the seed itself.
+At the start of the farther lands, the terrain of the seed 2666171903307131136 drops down instead of up. Whether or not the terrain drops or rises depends on the seed itself.
 
 ![FartherDropForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FartherDropForge.png)
 

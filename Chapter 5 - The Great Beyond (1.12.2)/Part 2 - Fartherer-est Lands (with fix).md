@@ -2,7 +2,7 @@ A long time ago, it was assumed that the far lands were completely fixed in beta
 
 (Important Note: You must disable the overflow by adding back the `% 16777216L`. If this is not done, there will be no new sets of far lands.)
 
-The far lands can be brought back in vanilla by simply adjusting the coordinate scale. A new type of far lands appears, even with a relatively low coordinate scale. The appearance of this kind of far lands depends on the coordinate scale, so it is presumed to not happen when offsetting.
+The far lands can be brought back in vanilla by simply adjusting the coordinate scale. Even at low coordinate scales, a new type of far lands appears. The appearance of this kind of far lands depends on the coordinate scale, so it is presumed to not happen when offsetting.
 
 (Caution: There may be a StackOverflowError as a result of liquids flowing. Go to BlockStaticLiquid, at updateLiquid() and insert a return statement if the current stacktrace is over 200 entries long.)
 
