@@ -86,6 +86,6 @@ Here is another axis of the far lands. At (-1 billion, 1 billion), the terrain i
 
 ![17SkyTransition](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SkyTransition.png)
 
-What's more interesting is that the void far lands also depicts a transition. This appears to be happen even when the Y-scale isn't stretched (hence the thin layer of deepslate sandwiching a large ocean in the previous part).
+What's more interesting is that the blocky deepslate generated in void far lands also fades out into endless ocean. This appears to be happen even when the Y-scale isn't stretched.
 
 ![17VoidTransition](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidTransition.png)
