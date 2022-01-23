@@ -74,7 +74,7 @@ When the normal far lands start to generate, the 3 different types of far lands 
 
 ![17VoidVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidVertex.png)
 
-Interestingly, in the sky far lands, the vertex far lands appear overriden by the sky far lands. This is one of the variants as described in the 3D far lands exploration.
+Interestingly, in what is supposed to be the vertex far lands, the sky far lands generate instead. This is one of the variants as described in the 3D far lands exploration.
 
 ![17SkyVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SkyVertex.png)
 
