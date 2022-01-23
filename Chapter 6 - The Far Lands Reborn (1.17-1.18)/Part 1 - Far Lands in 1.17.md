@@ -14,7 +14,7 @@ In the corner far lands, the blockiness of the far lands continues to be seen. N
 
 ![17FarLands4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarLands4.png)
 
-Below Y=64 though, aquifiers and the far lands terrain mix together, along with the occasional cave.
+Below Y=64 though, aquifers and the far lands terrain mix together, along with the occasional cave.
 
 ![17FarLands5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarLands5.png)
 
@@ -26,7 +26,7 @@ Because of the addition of local water levels, the terrain under sea level is no
 
 ![17FarLands8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarLands8.png)
 
-As we move into the farther lands, the terrain becomes flat and boring. All the images below show the terrain around the farther lands. Note that all the terrain below sea level is flooded because of the patch the mod applies.
+As we move into the farther lands, the terrain becomes flat and boring. All the images below show the terrain around the farther lands. Note that all the terrain below sea level is flooded because of the patch the far lands mod applies after 33 million blocks out, in order to fix an aquifer bug that causes an overflow error.
 
 This is what the corner far lands look like, 1 billon blocks out from spawn.
 
@@ -35,8 +35,6 @@ This is what the corner far lands look like, 1 billon blocks out from spawn.
 And here are the farther lands, with all its variation removed.
 
 ![17Farther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther2.png)
-
-Note that my far lands mod fixes an aquifer crash bug in the far lands, but in doing so, all air blocks under sea level are once again flooded.
 
 ![17Farther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther3.png)
 

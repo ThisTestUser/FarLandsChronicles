@@ -31,3 +31,35 @@ In another seed though, even more variations can be found. This is the same seed
 ![17FartherVertexAlt1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVertexAlt1.png)
 
 ![17FartherVertexAlt2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVertexAlt2.png)
+
+Now let's look at the void far lands. Set the Y-scale to 784426.297949, and the void far lands will start below Y=-32.
+
+![17VoidFar](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidFar.png)
+
+As we approach the intersection, the void far lands mix in with the other types of far lands, and like the corner far lands, intersect with aquifers.
+
+![17VoidIntersect](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidIntersect.png)
+
+![17FarVoidVertex1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarVoidVertex1.png)
+
+![17FarVoidVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarVoidVertex2.png)
+
+Here is the edge far lands blending with the sky far lands. It is harder to tell the difference, as the sky edge far lands occupy only a narrow edge.
+
+![17VoidEdge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidEdge.png)
+
+As we move into the farther lands, it becomes hard to draw a conclusion as to what the terrain is doing. Here, the vertex void farther lands appear to be generating terrain below Y=-32.
+
+![17FartherVoidVertex1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex1.png)
+ 
+From the below pictures, it seems like stretching the Y-scale allows for terrain to generate underground (remember this is the same seed and same location as the image showing the ocean a slab of deepslate in the previous part).
+
+![17FartherVoidVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex2.png)
+ 
+![17FartherVoidVertex3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex3.png)
+
+However, the terrain does start before Y=-32, so it is unclear what is causing this to happen.
+
+![17FartherVoidVertex4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex4.png)
+
+![17FartherVoidVertex5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex5.png)
