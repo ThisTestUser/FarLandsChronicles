@@ -44,14 +44,14 @@ As we approach the intersection, the void far lands mix in with the other types 
 
 ![17FarVoidVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarVoidVertex2.png)
 
-Here is the edge far lands blending with the sky far lands. It is harder to tell the difference, as the sky edge far lands occupy only a narrow edge.
+Below, the edge far lands blend with the sky far lands. It is harder to tell the difference, as the sky edge far lands occupy only a narrow edge.
 
 ![17VoidEdge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidEdge.png)
 
 As we move into the farther lands, it becomes hard to draw a conclusion as to what the terrain is doing. Here, the vertex void farther lands appear to be generating terrain below Y=-32.
 
 ![17FartherVoidVertex1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex1.png)
- 
+
 From the below pictures, it seems like stretching the Y-scale allows for terrain to generate underground (remember this is the same seed and same location as the image showing the ocean a slab of deepslate in the previous part).
 
 ![17FartherVoidVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex2.png)
@@ -63,3 +63,29 @@ However, the terrain does start before Y=-32, so it is unclear what is causing t
 ![17FartherVoidVertex4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex4.png)
 
 ![17FartherVoidVertex5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex5.png)
+
+Now, we set the Y-scale to 62754103.8359. This allows the Y-dimension farther lands to start at +/-32.
+
+![17SpawnFarther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SpawnFarther1.png)
+
+![17SpawnFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SpawnFarther2.png)
+
+When the normal far lands start to generate, the 3 different types of far lands mix. 
+
+![17VoidVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidFarther.png)
+
+Interestingly, in the sky far lands, the vertex far lands appear overriden by the sky far lands. This is one of the variants as described in the 3D far lands exploration.
+
+![17SkyVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SkyFarther.png)
+
+In the farther lands, the terrain generates completely empty. Note that it could also generate completely filled except for below sea level.
+
+![17VoidFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidFarther.png)
+
+Here is another axis of the far lands. At (-1 billion, 1 billion), the terrain is completely soild. The terrain below shows the transition from the normal vertex far lands to soild terrain. This behavior is also seen in the 3D far lands exploration.
+
+![17SkyTransition](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SkyTransition.png)
+
+What's more interesting is that the void far lands also depicts a transition. This appears to be happen even when the Y-scale isn't stretched (hence the thin layer of deepslate sandwiching a large ocean in the previous part).
+
+![17VoidTransition](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidTransition.png)

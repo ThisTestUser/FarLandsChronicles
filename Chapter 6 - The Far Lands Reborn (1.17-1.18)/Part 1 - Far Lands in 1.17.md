@@ -38,7 +38,9 @@ And here are the farther lands, with all its variation removed.
 
 ![17Farther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther3.png)
 
-Interestingly, the terrain below ground is almost entirely water (even before the farther lands start), with only a slab of deepslate in between. All the holes in the terrain are the result of cave carvers.
+Interestingly, the terrain below ground is almost entirely water (even before the farther lands start), with only a slab of deepslate in between. All the holes in the terrain are the result of cave carvers. The pool of lava below still exists, but is covered by a soild wall of deepslate.
+
+Note that the slab of deepslate is caused by the mod's patch for aquifers.
 
 ![17Farther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther4.png)
 
