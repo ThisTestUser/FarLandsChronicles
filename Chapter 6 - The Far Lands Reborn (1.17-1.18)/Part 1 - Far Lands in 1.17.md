@@ -32,7 +32,7 @@ This is what the corner far lands look like, 1 billon blocks out from spawn.
 
 ![17Farther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther1.png)
 
-And here is the farther lands, which has all the varation removed.
+And here are the farther lands, with all its variation removed.
 
 ![17Farther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther2.png)
 
@@ -40,13 +40,13 @@ Note that my far lands mod fixes an aquifer crash bug in the far lands, but in d
 
 ![17Farther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther3.png)
 
-Interestingly, the terrain below ground is almost entirely water (even before the farther lands start), with only a slab of deepslate in between.
+Interestingly, the terrain below ground is almost entirely water (even before the farther lands start), with only a slab of deepslate in between. All the holes in the terrain are the result of cave carvers.
 
 ![17Farther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther4.png)
 
 ![17Farther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther5.png)
 
-This is a view of the terrain at (100 mill, 12550821) for comparision. Note how the far lands terrain extends all the way to bedrock for the edge far lands, but not the corner far lands. Also note how even the corner far lands extend down below Y=0, even though close to the farther lands, this is not the case.
+Below is a view of the terrain at (100 mill, 12550821) for comparision. Note how the far lands terrain extends all the way to bedrock for the edge far lands, but not the corner far lands. Also note how even the corner far lands extend down below Y=0, even though close to the farther lands, this is not the case.
 
 ![17Farther6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther6.png)
 

@@ -4,6 +4,8 @@ Once you're finished, it's time to unpatch the fix that removed the far lands. N
 
 ![FarLands](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch2/FarLands.png)
 
+![CornerFar](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch2/CornerFar.png)
+
 ![FartherLands](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch2/FartherLands.png)
 
 Note: There is a crash when you load chunks between 2^26 and 2^27 blocks away. Here's an explanation: https://www.reddit.com/r/Minecraft/comments/9u9d4i/floats_minecraft_and_the_far_lands/

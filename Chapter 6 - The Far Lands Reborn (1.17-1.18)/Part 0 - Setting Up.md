@@ -8,8 +8,10 @@ For 1.18.1, only the far lands mod is needed, as the new terrain features are in
 
 For the Y-axis far lands to appear in 1.18, the height scale needs to be raised there. First, create a normal world, and then exit to the main menu. Select the world again, press "Edit", and press "Export World Generation Settings". The exported JSON will appear in the world folder in saves.
 
-After this, head over to https://misode.github.io/worldgen/noise-settings/ and use the presets button to select the overworld preset for 1.18. Press the download button on the bottom right to download the preset as a JSON. Ensure that your preset file is over 4,500 lines long.
+After this, head over to https://misode.github.io/worldgen/noise-settings/ and use the presets button to select the overworld preset for 1.18. Press the download button on the bottom right to download the preset as a JSON. Ensure that your preset file is over 4,500 lines long (otherwise you have the wrong preset).
 
 Now go back to the exported worldgen settings, highlight ```"minecraft:overworld"``` in the line starting with ```"settings": "minecraft:overworld"```. Replace that with the entire overworld noise preset (copy and paste it in).
 
 Find ```y_scale``` in the file. You can increase the scale to make the sky/void far lands appear, as dividing 25,101,642 by that scale gives the start of the vertical far lands. Like 1.17, this requires my far lands mod to be enabled.
+
+To start a new world with these settings, create a new world with the same seed as the world you exported its settings, set its world type to "Custom", and press "Import Settings" to adjust the terrain generator. If you did this right, the patch should be successfully applied.
