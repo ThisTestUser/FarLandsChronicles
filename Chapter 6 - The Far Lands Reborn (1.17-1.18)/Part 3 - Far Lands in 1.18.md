@@ -54,6 +54,6 @@ The new biomes don't seem to affect the far lands much, except that the surface 
 
 ![18FarLush](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLush.png)
 
-![18FarPeaks](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18CornerFarToFarther.png)
+![18FarPeaks](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarPeaks.png)
 
-![18FarStonyPeaks](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18CornerFarToFarther.png)
+![18FarStonyPeaks](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarStonyPeaks.png)

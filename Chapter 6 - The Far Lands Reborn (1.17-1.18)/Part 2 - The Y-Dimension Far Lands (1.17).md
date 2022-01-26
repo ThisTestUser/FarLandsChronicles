@@ -66,7 +66,7 @@ In another axis, there is a soild wall of terrain below Y=-32, even before the f
 
 ![17FartherVoidVertexOther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertexOther.png)
 
-Now, we set the Y-scale to 62754103.8359. This allows the Y-dimension farther lands to start at +/-32, and causes the sky far lands to completely replace normal terrain.
+Now, we set the Y-scale to 62754103.8359. This allows the Y-dimension farther lands to start at Y=64 (not Y=32 as expected), and causes the sky far lands to completely replace normal terrain.
 
 ![17SpawnFarther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SpawnFarther1.png)
 
@@ -76,7 +76,7 @@ When the normal far lands start to generate, the 3 different types of far lands 
 
 ![17VoidVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidVertex.png)
 
-Interestingly, in what is supposed to be the vertex far lands, the sky far lands generate instead. This is one of the variants as described in the 3D far lands exploration.
+The sky farther lands start at Y=64, as shown below.
 
 ![17SkyVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SkyVertex.png)
 
