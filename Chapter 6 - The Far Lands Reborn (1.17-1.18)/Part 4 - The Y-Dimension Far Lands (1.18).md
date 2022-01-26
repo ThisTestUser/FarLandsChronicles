@@ -34,6 +34,30 @@ As we move into the farther lands again, the terrain smooths out, mirroring the 
  
 ![18VoidFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18VoidFarther2.png)
 
-Of course, the terrain can vary a lot, depending on the seed and axis.
+One interesting thing that happens is that large amounts of bedrock (but not the lowest level) are removed by the terrain generation. This doesn't seem to happen in 1.17.
+
+![18BedrockErase1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18BedrockErase1.png)
+
+As always, the terrain can vary a lot, depending on the seed and axis.
 
 ![18VoidFarther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18VoidFarther3.png)
+
+Now, the Y-scale is set to 62754103.8359. This makes the entire world contain only far lands.
+
+![18YFarther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18YFarther1.png)
+
+However, this does not make the farther lands appear in the void, as the farther lands start generating at Y=+/-64. Instead, the Y-scale is set to 125508207.672 to allow this to happen.
+
+![18YFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18YFarther2.png)
+
+Now as expected, the void far lands override the normal corner/edge far lands after Y=-32.
+
+![18YFarther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18YFarther3.png)
+
+When all 3 farther lands intersect, nothing really interesting occurs.
+
+![18YFarther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18YFarther4.png)
+
+The only real difference is that the bottom of the world has large amounts of bedrock removed.
+
+![18BedrockErase2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18BedrockErase2.png)
