@@ -18,7 +18,7 @@ Below Y=64 though, aquifers and the far lands terrain mix together, along with t
 
 ![17FarLands5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarLands5.png)
 
-Because of the addition of local water levels, the terrain under sea level is no longer always flooded. Instead, water and lava aquifers dominate the land under Y=0, with a soild layer of lava below Y=-55, as lava replaces air at that point.
+Because of the addition of local water levels, the terrain under sea level is no longer always flooded. Instead, water and lava aquifers are widespread underground, with a soild layer of lava below Y=-55, as lava replaces air at that point.
 
 ![17FarLands6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarLands6.png)
 
@@ -28,7 +28,7 @@ Because of the addition of local water levels, the terrain under sea level is no
 
 As we move into the farther lands, the terrain becomes flat and boring. All the images below show the terrain around the farther lands. Note that all the terrain below sea level is flooded because of the patch the far lands mod applies after 33 million blocks out, in order to fix an aquifer bug that causes an overflow error.
 
-This is what the corner far lands look like, 1 billon blocks out from spawn.
+This is what the corner far lands look like, 1 billon blocks out from spawn, right before being replaced by the farther lands.
 
 ![17Farther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther1.png)
 
@@ -52,12 +52,12 @@ Note that the slab of deepslate is caused by the mod's patch for aquifers.
 
 ![17Farther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther4.png)
 
-![17Farther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther5.png
+![17Farther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther5.png)
 
-Below is a view of the terrain at (100 mill, 12550821) for comparision. Note how the far lands terrain extends all the way to bedrock for the edge far lands, but not the corner far lands. Also note how even the corner far lands extend down below Y=0, even though close to the farther lands, this is not the case.
+Below is a view of the terrain at (100 mill, 12550821) for comparision. Note how the far lands terrain extends all the way to bedrock for the edge far lands, but not the corner far lands (this behavior is different for other axises). Also note how even the corner far lands extend down below Y=0, even though close to the farther lands, this is not the case.
 
 ![17Farther6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther6.png)
 
-Also, just for reference, here's the far lands if aquifers were completely filled with water (this is a patch needed for 1.18). The deepslate extends down to about Y=-30, with everything below being mostly ocean. There's a layer of deepslate covering the lava that is below Y=-55, like in the previous image at 100 million.
+Also, just for reference, here's the far lands if aquifers were completely filled with water (this is a patch needed for 1.18). The deepslate extends down to about Y=-30, with everything below being mostly ocean. There's a layer of deepslate covering the lava that is below Y=-55, like in the previous images.
 
 ![17AquFix](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17AquFix.png)

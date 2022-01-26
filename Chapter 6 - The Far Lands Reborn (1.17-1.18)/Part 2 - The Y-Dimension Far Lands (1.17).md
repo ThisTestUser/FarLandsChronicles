@@ -44,7 +44,7 @@ As we approach the intersection, the void far lands mix in with the other types 
 
 ![17FarVoidVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarVoidVertex2.png)
 
-Below, the edge far lands blend with the sky far lands. It is harder to tell the difference, as the sky edge far lands occupy only a narrow edge.
+Below, the edge far lands blend with the sky far lands. It is harder to tell the difference between the two, as the sky edge far lands occupy only a narrow edge.
 
 ![17VoidEdge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidEdge.png)
 
@@ -80,7 +80,7 @@ Interestingly, in what is supposed to be the vertex far lands, the sky far lands
 
 ![17SkyVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17SkyVertex.png)
 
-In the farther lands, the terrain generates completely empty. Note that it could also generate completely filled except for below sea level.
+In the farther lands, the terrain generates nothing (the water is due to the aquifer fix). Note that it could also generate completely filled with stone except for below sea level.
 
 ![17VoidFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17VoidFarther.png)
 
