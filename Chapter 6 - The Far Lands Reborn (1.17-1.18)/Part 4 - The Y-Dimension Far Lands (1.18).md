@@ -1,5 +1,7 @@
 In order to make the sky far lands appear, the Y-scale should be stretched to 196106.574487 (see Part 0). This allows the sky far lands to appear at Y=128. The sky far lands stop at Y=256, as that is the maximum height the terrain generator uses (features like trees will generate higher).
 
+Interestingly, some mountain biomes cause the sky far lands to generate more sparsely.
+
 ![18SkyFar1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18SkyFar1.png)
  
 ![18SkyFar2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18SkyFar2.png)
@@ -24,7 +26,7 @@ Now let's look at the void far lands (Y-Scale = 784426.297949). Below is how it 
 
 ![18VoidFar](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18VoidFar.png)
 
-The vertex far lands are as expected and can be thought of as the inversion of the sky vertex far lands.
+The void vertex far lands are as expected and can be thought of as the inversion of the sky vertex far lands.
 
 ![18VoidVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18VoidVertex.png)
 
@@ -34,7 +36,7 @@ As we move into the farther lands again, the terrain smooths out, mirroring the 
  
 ![18VoidFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18VoidFarther2.png)
 
-One interesting thing that happens is that large amounts of bedrock (but not the lowest level) are removed by the terrain generation. This doesn't seem to happen in 1.17.
+One interesting thing that happens is that large amounts of bedrock (but not the bottommost layer) are removed by the terrain generation. This doesn't seem to happen in 1.17.
 
 ![18BedrockErase1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18BedrockErase1.png)
 

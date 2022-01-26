@@ -1,4 +1,4 @@
-First, we will use 196106.574487 for the Y-scale (more details in Part 0). This allows for the sky far lands to appear at height 128. Like the other far lands, the terrain appears warped.
+First, we will use 196106.574487 for the Y-scale (more details in Part 0). This allows for the sky far lands to appear at height 128. Like the other far lands, the terrain appears blocky.
 
 Seed for all images (except where noted): 3192545518397860029
 
