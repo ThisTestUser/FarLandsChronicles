@@ -6,7 +6,7 @@ The first thing you'll notice when you teleport to the far lands is that it only
 
 ![18FarLands1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLands1.png)
 
-Another thing you'll realize that after loading the world for a bit, the server side (terrain generation) stops responding, and new chunks are unable to load. This is caused by aquifers creating air pockets in the ocean.
+Another thing you'll realize that after loading the world for a bit, the terrain generation (handled by the server part) stops responding, and new chunks are unable to load. This is caused by aquifers creating air pockets in the ocean.
 
 ![18FarLands2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLands2.png)
 
@@ -24,7 +24,7 @@ To fix this, my mod forces aquifers to be always flooded (in 1.17, this only app
 
 ![18FarLandsOtherAxis](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLandsOtherAxis.png)
 
-Like 1.17, there is large variation in how the far lands generate. Some axises generate more terrain (stone) than others.
+Like 1.17, there is large variation in how the far lands generate. Some axises generate more terrain (stone/deepslate) than others.
 
 ![18FarLands8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLands8.png)
 
@@ -34,7 +34,7 @@ Above ground, the terrain in 1.18 is blocky, like 1.17. Here's the 1.17 seed (31
 
 ![18FarLandsWith17](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLandsWith17.png)
 
-In the farther lands, large variation is again observed.
+In the farther lands, large variation is again observed, although the general pattern is the same.
 
 ![18Farther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18Farther1.png)
 
