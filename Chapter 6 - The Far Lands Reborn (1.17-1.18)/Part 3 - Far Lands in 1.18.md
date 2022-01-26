@@ -49,3 +49,11 @@ In the farther lands, large variation is again observed, although the general pa
 Here's the terrain before the corner far lands transitions into the edge farther lands.
 
 ![18CornerFarToFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18CornerFarToFarther.png)
+
+The new biomes don't seem to affect the far lands much, except that the surface blocks match what's expected for the biome.
+
+![18FarLush](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18FarLush.png)
+
+![18FarPeaks](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18CornerFarToFarther.png)
+
+![18FarStonyPeaks](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/18CornerFarToFarther.png)
