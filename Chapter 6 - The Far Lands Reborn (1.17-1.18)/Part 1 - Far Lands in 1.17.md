@@ -1,6 +1,6 @@
 With the exception of height changes (from raising the height limit) and composition changes (from adding new biomes), the far lands have remained mostly the same throughout previous versions. However, in 1.17 (with the Caves & Cliffs datapack), this all changes.
 
-Seed for all images: 3192545518397860029
+Seed for all images: 3192545518397860029 (unless otherwise noted)
 
 ![17FarLands1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FarLands1.png)
 
@@ -38,16 +38,26 @@ And here are the farther lands, with all its variation removed.
 
 ![17Farther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther3.png)
 
+Note that there sometimes can be continuity between the edge and corner farther lands.
+
+![17FartherOtherAxis1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherOtherAxis1.png)
+
 Interestingly, the terrain below ground is almost entirely water (even before the farther lands start), with only a slab of deepslate in between. All the holes in the terrain are the result of cave carvers. The pool of lava below still exists, but is covered by a soild wall of deepslate.
+
+For other axises, this behavior is not shown, with the far lands terrain generating all the way to bedrock.
+
+![17FartherOtherAxis2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherOtherAxis2.png)
 
 Note that the slab of deepslate is caused by the mod's patch for aquifers.
 
 ![17Farther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther4.png)
 
-![17Farther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther5.png)
+![17Farther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther5.png
 
 Below is a view of the terrain at (100 mill, 12550821) for comparision. Note how the far lands terrain extends all the way to bedrock for the edge far lands, but not the corner far lands. Also note how even the corner far lands extend down below Y=0, even though close to the farther lands, this is not the case.
 
 ![17Farther6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17Farther6.png)
 
-It seems like at some point (about 67 million blocks), the far lands would stop generating underground. Note that the Y-coordinate scale wasn't messed with yet, so this is not caused by the void far lands.
+Also, just for reference, here's the far lands if aquifers were completely filled with water (this is a patch needed for 1.18). The deepslate extends down to about Y=-30, with everything below being mostly ocean. There's a layer of deepslate covering the lava that is below Y=-55, like in the previous image at 100 million.
+
+![17AquFix](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17AquFix.png)

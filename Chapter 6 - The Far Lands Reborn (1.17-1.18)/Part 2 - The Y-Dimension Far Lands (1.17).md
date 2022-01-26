@@ -52,17 +52,19 @@ As we move into the farther lands, it becomes hard to draw a conclusion as to wh
 
 ![17FartherVoidVertex1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex1.png)
 
-From the below pictures, it seems like stretching the Y-scale allows for terrain to generate underground (remember this is the same seed and same location as the image showing the ocean a slab of deepslate in the previous part).
+From the below pictures, it seems like stretching the Y-scale changes the terrain generation underground (remember this is the same seed and same location as the image showing the ocean a slab of deepslate in the previous part).
 
 ![17FartherVoidVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex2.png)
  
 ![17FartherVoidVertex3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex3.png)
 
-However, the terrain does start before Y=-32, so it is unclear what is causing this to happen.
-
 ![17FartherVoidVertex4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex4.png)
 
 ![17FartherVoidVertex5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertex5.png)
+
+In another axis, there is a soild wall of terrain below Y=-32, even before the farther lands are reached.
+
+![17FartherVoidVertexOther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch6/17FartherVoidVertexOther.png)
 
 Now, we set the Y-scale to 62754103.8359. This allows the Y-dimension farther lands to start at +/-32, and causes the sky far lands to completely replace normal terrain.
 
