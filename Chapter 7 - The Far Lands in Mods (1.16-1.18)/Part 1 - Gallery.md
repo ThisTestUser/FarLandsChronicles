@@ -71,3 +71,53 @@ Now let's move on to the Blue Skies mod in 1.18.1. The far lands do not generate
 The cave distortions start when the X and Z coords exceed 2^24 (16,777,216). At that point, a slight distortion of the terrain can be seen, which gets worse every power of 2.
 
 ![BlueSkies5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/BlueSkies5.png)
+
+The next set of mods we'll be looking at are from Stardust Labs. Below are images from the Terralith 1.0 mod, which adds a bunch of new biomes and intergrates Caves and Cliffs features.
+
+![Terralith1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith1.png)
+
+![Terralith2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith2.png)
+
+![Terralith3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith3.png)
+
+Below ground, cave biomes generate as well, but cave features are rarer than normal.
+
+![Terralith4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith4.png)
+
+Below are two images of Terralith biomes generating in the edge far lands.
+
+![Terralith5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith5.png)
+
+![Terralith6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith6.png)
+
+In the farther lands, "mountains" are able to generate, because the top grass block is between Y=280 to 290, rather than at Y=320 earlier.
+
+![Terralith7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith7.png)
+
+Large cave features also generate in the farther lands.
+
+![Terralith8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith8.png)
+
+Because the terrain does not go up to the height limit, trees are able to generate abundantly.
+
+![Terralith9](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith9.png)
+
+Interestingly, some biomes are able to generate trees underground. Here is an example of this happening in the yellowstone biome.
+
+![Terralith10](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Terralith10.png)
+
+Now, let's head to the Nether to see the far lands with Incendium.
+
+![Incendium1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Incendium1.png)
+
+![Incendium2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Incendium2.png)
+
+The corner far lands are not very different from normal nether generation, and not many differences can be found there. Within the edge far lands, the biomes warps itself to match the terrain shape.
+
+![Incendium3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Incendium3.png)
+
+The same thing can be seen in the farther lands, except that the corner farther lands are all flat.
+
+![Incendium4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Incendium4.png)
+
+![Incendium5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Incendium5.png)
