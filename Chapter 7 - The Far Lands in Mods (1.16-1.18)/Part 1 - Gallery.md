@@ -144,9 +144,9 @@ The stack in the corner far lands can be very thin, leading to chorus plants gen
 
 Below are the edge far lands. Notice again the smooth edges.
 
-![Nullscape5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Nullscape5.png)
-
 ![Nullscape6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Nullscape6.png)
+
+![Nullscape7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch7/Nullscape7.png)
 
 There appears to be no new sets of far lands, at least within the integer limit. The end dimension bug where terrain is cut off is also fixed here.
 
