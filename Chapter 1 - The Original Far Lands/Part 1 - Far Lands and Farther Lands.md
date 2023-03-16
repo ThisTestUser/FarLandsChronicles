@@ -1,6 +1,6 @@
 Before we start, it's probably a good idea to patch out two undesirable float bugs that will hinder exploration of the Far Lands: the "offset"/"jitter" bug and the issue with sand/gravel entities constantly falling and generating thousands of items.
 
-To get rid of the jitter issue, we'll need to navigate to RenderList.java and remove some float casts, as well as convert floats to doubles accordingly. On lines 11, 12 and 13, change the declared floats to doubles. Delete the three float casts on lines 24, 25 and 26, and delete the float cases from line 50 as well as changing "glTranslatef" to "glTranslated". This should completely get rid of the jitter issue. See this video for more info: https://www.youtube.com/watch?v=KGPwPC7u03w
+To get rid of the jitter issue, we'll need to navigate to RenderList.java and remove some float casts, as well as convert floats to doubles accordingly. On lines 11, 12 and 13, change the declared floats to doubles. Delete the three float casts on lines 24, 25 and 26, and delete the float casts from line 50 as well as changing "glTranslatef" to "glTranslated". This should completely get rid of the jitter issue. See this video for more info: https://www.youtube.com/watch?v=KGPwPC7u03w
 
 To fix sand and gravel, go to BlockSand.java. On line 28, we need to delete the float casts, and change each instance of "0.5F" on that line to "0.5D". Once this is done, sand and gravel should now fall correctly and we won't be forced to constantly use the "killall" command every few minutes.
 
