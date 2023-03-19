@@ -30,15 +30,18 @@ From the inside, the "corner" Far Lands where one side overflows but the other d
 So far, the only things we've changed are low noise and high noise. By changing these, we've been able to note that they can operate independently, with some regions of terrain being affected by the overflow and others remaining the same. Indeed, the regions which are affected by low noise versus high noise are themselves controlled by a noise generator - namely the selector noise we discussed previously. If we make selector noise overflow before either low or high noise, the phenomena we saw resulting from selector noise still working normally should also somehow break. Let's set it to overflow by changing the two "80D" values shown for X and Z to "0.5D" to make it overflow at half the distance of low and high noise. We've already seen how selector noise looks when it overflows before the usual Far Lands in Part 1, so let's skip straight ahead to the Far Lands.
 
 We can definitely see that the Far Lands still appear as usual, but they seem a bit blockier than we'd normally expect, with some tunnels being much wider than before:
+
 ![PreOverflowedSelector1](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/PreOverflowedSelector1.png)
 ![PreOverflowedSelector2](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/PreOverflowedSelector2.png)
 ![FLPreOverflowedCorner](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/FLPreOverflowedCorner.png)
 
 In some rare cases, we can even have the Far Lands differing in height depending on what axis we're on. Here's a very obvious example (seed 1, positive-positive corner):
+
 ![TallerOnOneSide](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/TallerOnOneSide.png)
 ![TallerOnOneSideHeadOn](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/TallerOnOneSideHeadOn.png)
 
 We can even have cases where the direction of the lines differs depending on the Y-coordinate. In the following case, the Far Lands give way to a seething matrix of gridlike terrain stripes.
+
 ![PerpendicularStack](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/PerpendicularStack.png)
 
 The number of possible interesting effects that can arise from manipulating the noise generators in this way are far too numerous to detail here.
