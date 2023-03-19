@@ -1,6 +1,6 @@
 In order to explore the far lands in beta 1.7.3, we'll need to be able to edit Minecraft easily. The best way to do this is by decompiling the game using ModCoderPack. Here I'll be decompiling the JAR with Single Player Commands injected into it. This will cause some errors, but they're easy to fix.
 
-First, download and install Single Player Commands. There are several tutorials online for how to do this - you'll basically want to take all of the files from the mod ZIP and oaste them into your minecraft JAR file. Old versions of Single Player Commands can be found at mcarchive (https://mcarchive.net/mods/singleplayercommands). Note that you'll also want to retain an unmodified Beta 1.7.3 JAR file for later.
+First, download and install Single Player Commands. There are several tutorials online for how to do this - you'll basically want to take all of the files from the mod ZIP and paste them into your minecraft JAR file. Old versions of Single Player Commands can be found at mcarchive (https://mcarchive.net/mods/singleplayercommands). Note that you'll also want to retain an unmodified Beta 1.7.3 JAR file for later.
 
 After installing Single Player Commands, download ModCoderPack for beta 1.7.3, and extract the contents into a folder. Old versions of MCP can be found here: https://minecraft.fandom.com/wiki/Tutorials/Programs_and_editors/Mod_Coder_Pack#Downloads
 
