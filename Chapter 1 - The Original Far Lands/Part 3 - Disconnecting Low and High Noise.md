@@ -22,3 +22,7 @@ If we now travel to twice the usual Far Lands distance, the "other" noise genera
 ![FarLandsDisjointCatchUpEdge](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/FarLandsDisjointCatchUpEdge.png)
 ![FarLandsDisjointCatchUpCorner](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/FarLandsDisjointCatchUpCorner.png)
 
+From the inside, the "corner" Far Lands where one side overflows but the other does not is incredibly chaotic, and generally does not lend itself to visually interesting terrain. Only once everything has overflowed can we encounter non-obtrusive terrain, which resembles the usual "Stack".
+
+![FarLandsDisjointInside](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/FarLandsDisjointInside.png)
+![FarLandsDisjointInside2](https://raw.githubusercontent.com/muzikbike/FarLandsChronicles/patch-3/assets/Ch1/FarLandsDisjointInside2.png)
