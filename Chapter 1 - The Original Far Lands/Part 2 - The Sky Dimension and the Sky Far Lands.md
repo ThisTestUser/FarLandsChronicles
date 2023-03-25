@@ -2,6 +2,8 @@ Let's have a look at the sky far lands. Similar to how the giant wall generates 
 
 ![SkyFarLands](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch1/SkyFarLands.png)
 
+A remarkable property of the sky far lands are that unlike the X-axis and Z-axis edge far lands, the sky far lands do not appear to be stretched in any direction. The X-axis and Z-axis far lands appear to be stretched vertically due to noise only being sampled every 8 blocks on the y-axis, compared to every 4 blocks on the xz plane. Otherwise, the sky far lands do not visually differ much from the other edges.
+
 When the sky far lands merge with the edge far lands, the vertex far lands start to appear.
 
 ![VertexFarLands](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch1/VertexFarLands.png)
