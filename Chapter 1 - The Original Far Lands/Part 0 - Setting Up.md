@@ -1,6 +1,6 @@
 In order to explore the far lands in beta 1.7.3, we'll need to be able to edit Minecraft easily. The best way to do this is by decompiling the game using ModCoderPack. Here I'll be decompiling the JAR with Single Player Commands injected into it. This will cause some errors, but they're easy to fix.
 
-First, download and install Single Player Commands. There are several tutorials online for how to do this - you'll basically want to take all of the files from the mod ZIP and paste them into your minecraft JAR file. Old versions of Single Player Commands can be found at mcarchive (https://mcarchive.net/mods/singleplayercommands). Note that you'll also want to retain an unmodified Beta 1.7.3 JAR file for later.
+First, download and install Single Player Commands. There are several tutorials online for how to do this - you'll want to take all of the files from the mod ZIP and paste them into your minecraft JAR file. Old versions of Single Player Commands can be found at mcarchive (https://mcarchive.net/mods/singleplayercommands). Note that you'll also want to retain an unmodified Beta 1.7.3 JAR file for later.
 
 After installing Single Player Commands, download ModCoderPack for beta 1.7.3, and extract the contents into a folder. Old versions of MCP can be found here: https://minecraft.fandom.com/wiki/Tutorials/Programs_and_editors/Mod_Coder_Pack#Downloads
 
@@ -14,7 +14,7 @@ In order for MCP to recognize WorldEdit.jar, we need to add it to the libraries 
 
 Run decompile.bat. Everything should work out.
 
-There are still a few remaining fixes to work out. Replace the modified minecraft.jar with the unmodded copy of Beta 1.7.3. Launch your IDE (I'm using Eclipse) and add WorldEdit.jar as a library. After this, there shouldn't be any compiling errors. However, due to a bug in the decompiler, you'll need to fix some lines of code to run the program correctly:
+There are still a few remaining fixes to work out. Replace the modified minecraft.jar with the unmodded copy of Beta 1.7.3. Launch your IDE (I'm using Eclipse) and add WorldEdit.jar as a library. After this, there shouldn't be any compiling errors. However, due to a decompiler bug, you'll need to apply some fixes to the code:
 
 First is SPCCommand.java. You should add `@Retention(RetentionPolicy.RUNTIME)` above where the class is declared, and also change the class into an interface, add default tags to the methods. When you're finished, the code should look like this:
 
