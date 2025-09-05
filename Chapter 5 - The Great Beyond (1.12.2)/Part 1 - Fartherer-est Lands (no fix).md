@@ -1,6 +1,8 @@
-With the far lands re-enabled, the fartherer/est lands do not seem to exist at all (vanilla) or seems to exist as a "jump" in the terrain (Forge).
+With the far lands re-enabled, the fartherer/est lands do not seem to exist at all.
 
-For example, here is X/Z = +4312430307758379832:
+However, in my Forge mod that re-enables the far lands, an incomplete patch (replacing the modulus fix with one that uses Long.MAX_VALUE) results in an anomaly when the long value overflows. This has been fixed in the latest version of my mod.
+
+Here is X/Z = +4312430307758379832, in vanilla:
 
 ![FarLandsW1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsW1.png)
 
@@ -10,7 +12,7 @@ Here is the terrain at X=10004065811,Z=1004065811 (the X coordinate is at 10 bil
 
 ![FarLandsW2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsW2.png)
 
-It seems that when trying to generate the fartherer lands (by modifying the coordinate scale to 2939527156989.952) in Forge (with my 1.12.2 far lands mod), a "jump" in the terrain occurs at the normal start of the far lands. Note that the location of this phenomenon can be changed by adjusting the coordinate scale.
+When trying to generate the fartherer lands (by modifying the coordinate scale to 2939527156989.952) with an old version my far lands mod (the one with the incomplete patch), a "jump" in the terrain occurs at the normal start of the far lands. Note that the location of this phenomenon can be changed by adjusting the coordinate scale.
 
 ![FarLandsForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsForge.png)
 
@@ -22,6 +24,6 @@ At the start of the farther lands, the terrain of the seed 2666171903307131136 d
 
 ![FartherDropForge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FartherDropForge.png)
 
-However, opening the seed in vanilla (with the far lands re-enabled of course) results in the terrain being completely flat. This is the same seed as the image with the jump, 2666171903307131136):
+However, opening the seed with the far lands correctly removed results in the terrain being completely flat. This is the same seed as the image with the jump, 2666171903307131136):
 
 ![FarLandsFlat](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch5/FarLandsFlat.png)
