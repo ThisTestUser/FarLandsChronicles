@@ -46,7 +46,7 @@ The follow two images are from the same seed (-7852708077945345001), but on diff
 
 ![SVertexT5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVertexT5.png)
 
-Blocky terrain serves as an intermediate state, and is required to be present on a side of any transition boundary. It is possible for the vertex far lands to start off with blocky terrain.
+Blocky terrain serves as an intermediate state, and is required to be present on one side of any transition boundary. It is possible for the vertex far lands to start off with blocky terrain.
 
 ![SVertexT6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVertexT6.png)
 
@@ -60,11 +60,11 @@ The four terrain variations are still distinguishable in the farther lands. Belo
 
 ![SFarther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFarther3.png)
 
-Here's a distorted version of the farther lands generating. Note that the distortion continues into the farther lands. (Seed: -4095175192329492247)
+Here's what happens when the terrain just before is blocky. Note that the blockiness continues into the farther lands. (Seed: -4095175192329492247)
 
-![SFarther4] (https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFarther4.png)
+![SFarther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFarther4.png)
 
-![SFarther5] (https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFarther5.png)
+![SFarther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFarther5.png)
 
 The last two variations are uninteresting, as the solid or empty terrain extends across the boundary and no differences appear when crossing into the farther lands.
 
@@ -80,7 +80,7 @@ Transitions between the types of terrains continue into the farther lands. Like 
 
 ![SFartherT5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFartherT5.png)
 
-It is important to remember that transitions only happen within the vertex far lands area, when the low noise and high noise overflow on all 3 axises.
+It is important to remember that transitions only happen within the vertex far lands area. Below are two examples of a transition between two variations of the vertex far lands, which does not affect terrain outside of the vertex far lands.
 
 ![SFartherT6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFartherT6.png)
 
