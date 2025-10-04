@@ -1,41 +1,44 @@
-The void far lands are the final frontier of the far lands. Normally, negative Y values do not generate terrain, but with Cubic Chunks, the world generates all the way down to the lower integer limit.
+The void far lands are the mirror image of the sky far lands. Normally, negative Y values do not generate terrain, but with Cubic Chunks, the world generates all the way down to the lower integer limit.
+
+The abundance of water will cause crashes in your world. To combat this, use a [mod](https://www.curseforge.com/minecraft/mc-mods/no-water-spread) that prevents water from spreading.
+
+Seed: -936504578442456880 (unless otherwise noted)
+
+The edge far lands and corner far lands are below. Note the abundance of gravel placed by the terrain decorator.
+
+![VEdge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VEdge.png)
+
+![VCorner](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VCorner.png)
 
 Here is the intersection of the 3 edges of the far lands, void version:
 
 ![VIntersect](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VIntersect.png)
 
-Here's the inverted version of the sky-edge far lands:
+Below is the void far lands, and then the void edge far lands. The terrain shape is the same as the sky far lands.
+
+![VoidFar](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VoidFar.png)
 
 ![VoidEdge](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VoidEdge.png)
 
-Now let's look at the vertex far lands. It doesn't seem too interesting at first, with the terrain being either completely solid or liquid.
-
-![VVertex](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex.png)
-
-However, floating islands can also be found.
+Now let's look at the vertex far lands. Like from before, we'll consider this to be the normal type of terrain that generates here. The pockets are air are caused by falling gravel, and are not filled because water spread is turned off.
 
 ![VVertex1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex1.png)
 
 ![VVertex2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex2.png)
 
-The farther lands are generated below.
+Blockiness in the terrain serves as an indicator that a transition to solid or empty terrain is close by. Below, we see a boundary from solid to blocky, which gradually transitions back to normal terrain.
 
-![VFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther.png)
+![VVertex3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex3.png)
 
-![VFarther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther1.png)
+![VVertex4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex4.png)
 
-Here's the receding version of the void far lands. We saw this for the sky far lands also.
+![VVertex5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex5.png)
 
-![VRecedeFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VRecedeFarther.png)
+For the solid and empty types, the terrain generates stone everywhere and water everywhere respectively. Keep in mind that all non-cave air pockets are filled with water by default.
 
-And here's a distorted version:
+![VVertex6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex6.png)
 
-![VDistortedFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VDistortedFarther.png)
+![VVertex7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertex7.png)
 
-Below is the only time I saw the vertex farther lands generate.
+Now let's look at some transitions between the variants. The same pattern seen in the sky far lands holds here also.
 
-![VVertexFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexFarther.png)
-
-Normally, though, the vertex farther lands are relatively uninteresting:
-
-![VEmptyFarther](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VSolidFarther.png)
