@@ -80,8 +80,10 @@ Transitions between the types of terrains continue into the farther lands. Like 
 
 ![SFartherT5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFartherT5.png)
 
-It is important to remember that transitions only happen within the vertex far lands area. Below are two examples of a transition between two variations of the vertex far lands, which does not affect terrain outside of the vertex far lands.
-
 ![SFartherT6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFartherT6.png)
 
+It is important to remember that transitions only happen within the vertex far lands area. Below are two examples of a transition between two variations of the vertex far lands, which does not affect terrain outside of the vertex far lands.
+
 ![SFartherT7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFartherT7.png)
+
+![SFartherT8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SFartherT8.png)
