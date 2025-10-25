@@ -1,6 +1,6 @@
 The void far lands are the mirror image of the sky far lands. Normally, negative Y values do not generate terrain, but with Cubic Chunks, the world generates all the way down to the lower integer limit.
 
-The abundance of water will cause crashes in your world. To combat this, use a [mod](https://www.curseforge.com/minecraft/mc-mods/no-water-spread) that prevents water from spreading.
+The abundance of water will cause crashes in your world. To combat this, use a [mod](https://www.curseforge.com/minecraft/mc-mods/no-water-spread) that prevents water from spreading. Ensure you apply the commands ```/gamerule doWaterSpread false``` and ```/gamerule doLavaSpread false``` every time you create a new world.
 
 Seed: -936504578442456880 (unless otherwise noted)
 
@@ -14,7 +14,7 @@ Here is the intersection of the 3 edges of the far lands, void version:
 
 ![VIntersect](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VIntersect.png)
 
-Below is the void far lands, and then the void edge far lands. The terrain shape is the same as the sky far lands.
+Below are the void far lands, and then the void edge far lands. The terrain shape is the same as the sky far lands.
 
 ![VoidFar](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VoidFar.png)
 
@@ -42,3 +42,40 @@ For the solid and empty types, the terrain generates stone everywhere and water 
 
 Now let's look at some transitions between the variants. The same pattern seen in the sky far lands holds here also.
 
+![VVertexT1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT1.png)
+
+![VVertexT2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT2.png)
+
+The below image is a transition whose coordinates correlate with a transition seen before in the sky far lands page. Note that a second transition can be seen parallel to the Y axis. The second transition does not appear in the sky far lands, as it is parallel to the Y plane.
+
+![VVertexT3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT3.png)
+
+Even though the other transition looks parallel, it is not fully so. Note that this is just another variation of the transitions we have seen so far.
+
+![VVertexT4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT4.png)
+
+The normal farther lands are shown below.
+
+![VFarther1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther1.png)
+
+![VFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther2.png)
+
+![VFarther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther3.png)
+
+Now we'll look at the blocky farther lands. Note the water pocket in the corner farther lands caused by a layer of gravel falling away.
+
+![VFarther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther4.png)
+
+![VFarther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFarther5.png)
+
+With the solid and empty variants, the terrain extends across the farther lands boundary with no differences seen.
+
+Now let's look at some transitions, but this time in the farther lands.
+
+![VFartherT1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT1.png)
+
+![VFartherT2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT2.png)
+
+![VFartherT3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT3.png)
+
+![VFartherT4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT4.png)
