@@ -44,17 +44,35 @@ Now let's look at some transitions between the variants. The same pattern seen i
 
 ![VVertexT1](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT1.png)
 
+The following two images are proof that transitions extend across different corners.
+
 ![VVertexT2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT2.png)
 
 ![VVertexT3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT3.png)
 
-The below image is a transition whose coordinates correlate with a transition seen before in the sky far lands page. Note that a second transition can be seen parallel to the Y axis. The second transition does not appear in the sky far lands, as it is parallel to the Y plane.
+The parallel transition depicted above eventually intersects with a diagonal transition in the ++ axis. Note that the terrain just before is not blocky. This is caused by the terrain becoming more normal just before the intersection.
+
+Look closely at the following images and you'll also see the parallel transition go from normal <-> solid to normal <-> empty. The diagonal transition also changes types, but it is harder to see.
 
 ![VVertexT4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT4.png)
 
-Even though the other transition looks parallel, it is not fully so. Note that this is just another variation of the transitions we have seen so far.
-
 ![VVertexT5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT5.png)
+
+![VVertexT6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT6.png)
+
+The below image is a transition whose coordinates correlate with a transition seen before in the sky far lands page. Note that a second transition can be seen parallel to the Y axis.
+
+![VVertexT7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT7.png)
+
+Moving in the +Z direction reveals a second intersection close by, parallel to the downwards transition seen before.
+
+![VVertexT8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT8.png)
+
+By following the intersection towards the origin, we can see that we do not have two transitions, but one transition, which is offset at a certain Y value for some reason.
+
+![VVertexT9](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT9.png)
+
+![VVertexT10](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVertexT10.png)
 
 The normal farther lands are shown below.
 
@@ -84,7 +102,7 @@ Now let's look at some transitions, but this time in the farther lands.
 
 ![VFartherT5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT5.png)
 
-The transition depicted in the image above intersects with a diagonal transition. When this happens the two transitions swap types. This is seen in the photos below.
+The transition depicted in the image above intersects with a diagonal transition. Like before, the two transitions swap types. This is more obviously seen than in the example before. Note that the farther lands are not blocky at the intersection.
 
 ![VFartherT6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT6.png)
 
@@ -94,6 +112,8 @@ The transition depicted in the image above intersects with a diagonal transition
 
 ![VFartherT9](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT9.png)
 
-Below is another example of 2 transitions merging.
+Below, we are revisiting the intersection which we have seen before, except this time we are in the farther lands.
 
 ![VFartherT10](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT10.png)
+
+![VFartherT11](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT11.png)
