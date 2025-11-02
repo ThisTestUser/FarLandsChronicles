@@ -102,7 +102,7 @@ Now let's look at some transitions, but this time in the farther lands.
 
 ![VFartherT5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT5.png)
 
-The transition depicted in the image above intersects with a diagonal transition. Like before, the two transitions swap types. This is more obviously seen than in the example before. Note that the farther lands are not blocky at the intersection.
+The transition depicted in the image above intersects with a diagonal transition. Like before, the two transitions swap types. This is more obvious than in the example before. Note that the farther lands are not blocky at the intersection.
 
 ![VFartherT6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT6.png)
 
@@ -112,7 +112,7 @@ The transition depicted in the image above intersects with a diagonal transition
 
 ![VFartherT9](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT9.png)
 
-Below, we are revisiting the intersection which we have seen before, except this time we are in the farther lands.
+Below, we are revisiting the transition that is offset at a Y value, except this time we are in the farther lands.
 
 ![VFartherT10](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VFartherT10.png)
 
