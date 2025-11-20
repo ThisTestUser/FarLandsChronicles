@@ -60,3 +60,43 @@ Unlike before, this terrain seems to go on forever. This is also true going upwa
 To view the effects of a transition on this terrain, we must double the noise scales to make the far and farther lands start twice as close. After doing this, we can see the same type of distortion that we have seen in the vertex far lands, followed by the transition.
 
 ![SVFartherT2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFartherT2.png)
+
+By searching even more seeds, another type of terrain appears to generate. The corner starts as a repeating pattern like we've seen before.
+
+![SVFarther8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther8.png)
+
+Moving forward reveals a new type of terrain trying to emerge from it. This terrain has more variety than the repeating terrain shown previously.
+
+![SVFarther9](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther9.png)
+
+![SVFarther10](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther10.png)
+
+![SVFarther11](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther11.png)
+
+Eventually, the new terrain takes over completely. From the +X side it first starts with egg-like holes, before transitioning briefly to chaotic terrain and finally fading to air.
+
+![SVFarther12](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther12.png)
+
+![SVFarther13](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther13.png)
+
+Moving up the Y axis also results in chaotic terrain taking over. Again, egg-like holes start generating, followed by chaotic terrain before becoming sparse and fading to air.
+
+![SVFarther14](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther14.png)
+
+![SVFarther15](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther15.png)
+
+![SVFarther16](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther16.png)
+
+If we move forward in the X and Z axises, the fade to air does not happen. Instead, there is a transition from sparse to chaotic terrain when moving up the Y axis. The repeating terrain seen before does not extend to this point.
+
+![SVFarther17](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther17.png)
+
+In the -+ axis, the chaotic terrain manifests differently. In the +Z direction, there is a transition from egg-like structures (the opposite of the holes seen before) to chaotic terrain.
+
+![SVFarther18](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther18.png)
+
+![SVFarther19](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther19.png)
+
+It is clear from the below image that the terrain is the inverse of the ++ axis. Notice how rectangular holes form instead of lines.
+
+![SVFarther20](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther20.png)
