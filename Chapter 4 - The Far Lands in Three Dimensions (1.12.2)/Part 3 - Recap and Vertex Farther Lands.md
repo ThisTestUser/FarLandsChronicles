@@ -61,6 +61,26 @@ To view the effects of a transition on this terrain, we must double the noise sc
 
 ![SVFartherT2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFartherT2.png)
 
+Here are examples of interesting terrain generating in the void farther lands.
+
+![VVFarther2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther2.png)
+
+![VVFarther3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther3.png)
+
+![VVFarther4](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther4.png)
+
+In the below example, a wall of stone is generated that moves closer when traveling down. As a result, it quickly merges with the vertex farther lands boundary.
+
+![VVFarther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther5.png)
+
+Blockiness can be seen as we move closer to a transition. Below shows how the terrain changes as blockiness is applied. Note that scaling noise by 3 is needed to bring the transition within the integer limit.
+
+![VVFarther6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther6.png)
+
+![VVFarther7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther7.png)
+
+![VVFartherT2](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFartherT2.png)
+
 By searching even more seeds, another type of terrain appears to generate. The corner starts as a repeating pattern like we've seen before.
 
 ![SVFarther8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther8.png)
@@ -100,3 +120,33 @@ In the -+ axis, the chaotic terrain manifests differently. In the +Z direction, 
 It is clear from the below image that the terrain is the inverse of the ++ axis. Notice how rectangular holes form instead of lines.
 
 ![SVFarther20](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther20.png)
+
+The chaotic vertex farther lands are affected by distortions and transitions. Below shows the distortion being applied to the egg-like holes.
+
+![SVFarther21](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther21.png)
+
+Just before a transition, the terrain is extremely rectangular. This kind of terrain is found in the vertex far lands when the noise scales are increased by a large ratio.
+
+![SVFartherT3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFartherT3.png)
+
+From the same seed as all the images before, we can also find chaotic terrain in the void farther lands.
+
+![VVFarther8](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther8.png)
+
+![VVFarther9](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther9.png)
+
+![VVFarther10](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther10.png)
+
+Here is the terrain just before a transition in the void farther lands.
+
+![VVFartherT3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFartherT3.png)
+
+Here is a repeating pattern, similar to what we saw in the sky farther lands, intersecting with chaotic terrain. Note how quickly the chaotic terrain manifests compared to the sky farther lands.
+
+![VVFarther11](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther11.png)
+
+The below two images show a quick transition from egg-like holes to chaotic terrain. For this seed, we encounter chaotic terrain in the void farther lands much earlier.
+
+![VVFarther12](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther12.png)
+
+![VVFarther13](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther13.png)
