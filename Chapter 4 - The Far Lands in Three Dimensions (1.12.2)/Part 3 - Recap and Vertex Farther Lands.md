@@ -73,9 +73,11 @@ In the below example, a wall of stone is generated that moves closer when travel
 
 ![VVFarther5](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther5.png)
 
-Blockiness can be seen as we move closer to a transition. Below shows how the terrain changes as blockiness is applied. Note that scaling noise by 3 is needed to bring the transition within the integer limit.
+Blockiness can be seen as we move closer to a transition. The following three images shows how the terrain changes as blockiness is applied.
 
 ![VVFarther6](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther6.png)
+
+For the below two images we need to scale up the noise by three to bring the transition within the integer limit.
 
 ![VVFarther7](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/VVFarther7.png)
 
@@ -125,7 +127,7 @@ The chaotic vertex farther lands are affected by distortions and transitions. Be
 
 ![SVFarther21](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFarther21.png)
 
-Just before a transition, the terrain is extremely rectangular. This kind of terrain is found in the vertex far lands when the noise scales are increased by a large ratio.
+Just before a transition, the terrain is extremely rectangular. Similar terrain can be found in the vertex far lands when the noise scales are increased by a large ratio.
 
 ![SVFartherT3](https://raw.githubusercontent.com/ThisTestUser/FarLandsChronicles/master/assets/Ch4/SVFartherT3.png)
 
